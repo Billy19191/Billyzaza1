@@ -1,5 +1,6 @@
-## Hello World :)
+## Hello World, Welcome to Billy191's Github :)
 
+Let breakdown some basic info about myself:
 - 👋 Hi, My name is Ratchanon Tarawan (AKA Billy191)
 - 👨‍💻 KMUTT Computer Engineer
 - 👀 I’m interested in coding and currently learning C, Javascript
