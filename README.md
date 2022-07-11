@@ -2,11 +2,12 @@
 
 Let breakdown some basic info about myself:
 - 👋 Hi, My name is Ratchanon Tarawan (AKA Billy191)
+- 🇹🇭 Bnagkok, Thailand
 - 👨‍💻 KMUTT Computer Engineer
 - 👀 I’m interested in coding and currently learning C, Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Discord : Billy191#7342 or Twitter : Billy191
 
+Anyway, nice to meet y'll. Goodluck 🍀
 <table>
     <tr>
       <td>
