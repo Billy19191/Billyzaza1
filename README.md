@@ -1,5 +1,5 @@
 ## 💫 Hello World, Welcome to Billy191's Github :)
-Let breakdown some basic info about myself:<br><br>- 👋 Hi, My name is Ratchanon Tarawan (AKA Billy191)<br> - 🇹🇭 Bnagkok, Thailand<br> - 👨‍💻 KMUTT Computer Engineer<br>- 👀 I’m interested in coding and currently learning C, Javascript<br>- 📫 How to reach me?
+Let breakdown some basic info about myself:<br><br>- 👋 Hi, My name is Ratchanon Tarawan (AKA Billy191)<br> - 🇹🇭 Bangkok, Thailand<br> - 👨‍💻 KMUTT Computer Engineer<br>- 👀 I’m interested in coding and currently learning C, Javascript<br>- 📫 How to reach me?
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/http://discordapp.com/users/415450897343315978) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/billy191/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/billy191) 
 <br>Anyway, nice to meet y'll. Goodluck 🍀<br>
 <br>
