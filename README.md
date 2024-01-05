@@ -1,7 +1,13 @@
-## 💫 Hello World, Welcome to Billy191's Github :)
-**Let breakdown some basic info about myself!**<br><br>- 👋 Hi there, My name is Ratchanon Tarawan (Bill or Billy191)<br> - 🇹🇭 Bangkok, Thailand | 👨‍💻 KMUTT, Computer Engineer<br>- 👀 I’m interested in coding and currently learning C, Javascript, Typescript, and Web Development.<br>- 📫 How to reach me? You can get in touch with me by sending me a message via
+
+## 💫 Hello! Welcome to Billy191's Github :)
+**Let break down some basic info about myself!**<br>
+- 👋 Hi there, My name is Ratchanon Tarawan (AKA Bill or Billy191)<br> 
+- 🇹🇭 Bangkok, Thailand | 👨‍💻 KMUTT, Computer Engineer<br>
+- 👀 I’m interested in coding and fascinated by TypeScript, especially in the web development field.<br>
+- 📫 How to reach me? You can get in touch with me by sending me a message via
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](http://discordapp.com/users/415450897343315978) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/billy191/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/billy191) 
-By the way, nice to meet y'll. Luv 🍀
+
+By the way, nice to meet y'all. Thanks for taking the time to read my profile, Luv 🍀
 
 ---
 Here are some stats about myself: I'm still a baby and a beginner. :P
