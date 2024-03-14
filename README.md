@@ -8,7 +8,8 @@
 - 📫 How to reach me? You can get in touch with me by sending me a message via
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](http://discordapp.com/users/415450897343315978) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/billy191/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/billy191) 
 
-By the way, nice to meet y'all. Thanks for taking the time to read my profile, Luv 🍀
+<div> By the way, nice to meet y'all. Thanks for taking the time to read my profile, Luv 🍀</div>
+<img src="https://raw.githubusercontent.com/Billy19191/Billy19191/output/github-contribution-grid-snake.svg"/>
 
 ---
 Here are some stats about myself: I'm still a baby and a beginner. :P
